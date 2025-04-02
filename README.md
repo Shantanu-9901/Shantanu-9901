@@ -1,4 +1,4 @@
-# 🌐 Welcome to the Future—I’m Shantanu-9901, Agentic AI Architect 🚀
+# 🌐 Welcome to the Future—I’m Shantanu, Agentic AI Engineer 🚀
 
 ![Header GIF](https://media.giphy.com/media/3o7aD2X8gH4zqsOhO0/giphy.gif)  
 *Step into my lab, where code meets consciousness and visions become reality.*
