@@ -31,10 +31,6 @@ I’m not just an engineer—I’m a **pioneer of intelligent systems**, blendin
 
 ![Project Badge](https://img.shields.io/badge/Projects-Futuristic-green?style=for-the-badge&logo=codepen)
 
-## 📡 Stats from the Future
-![Shantanu’s AI Stats](https://github-readme-stats.vercel.app/api?username=Shantanu-9901&show_icons=true&theme=radical&hide_border=true&count_private=true)  
-![Tech Spectrum](https://github-readme-stats.vercel.app/api/top-langs/?username=Shantanu-9901&layout=compact&theme=radical&hide_border=true)  
-![Achievement Grid](https://github-profile-trophy.vercel.app/?username=Shantanu-9901&theme=gruvbox&no-frame=true)
 
 ## 🌩️ Connect to the Network
 - [Twitter](https://twitter.com/yourhandle) – Join my AI revolution  
