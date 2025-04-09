@@ -32,10 +32,9 @@ I’m not just an engineer—I’m a **pioneer of intelligent systems**, blendin
 ![Project Badge](https://img.shields.io/badge/Projects-Futuristic-green?style=for-the-badge&logo=codepen)
 
 
-## 🌩️ Connect to the Network
-- [Twitter](https://twitter.com/yourhandle) – Join my AI revolution  
-- [LinkedIn](https://linkedin.com/in/yourprofile) – For visionary collabs  
-- [Email](mailto:your.email@example.com) – Ping me your boldest ideas  
+## 🌩️ Connect to the Network 
+- [LinkedIn](https://linkedin.com/in/shantanupatil) – For visionary collabs  
+- [Email](mailto:patil9091@gmail.com) – Ping me your boldest ideas  
 
 ![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)  
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)
