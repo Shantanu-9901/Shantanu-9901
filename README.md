@@ -1,6 +1,6 @@
 # 🌐 Welcome to the Future—I’m Shantanu, Agentic AI Engineer 🚀
 
-![Header GIF](https://media.giphy.com/media/3o7aD2X8gH4zqsOhO0/giphy.gif)  
+![Header GIF]([https://media.giphy.com/media/3o7aD2X8gH4zqsOhO0/giphy.gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3d0OWJkaWlpamhpODQ4MXdxZHE1YXdiM3l0bWlwdTN2MnJvZWFlYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NsBknNwmmWE8WU1q2U/giphy.gif))  
 *Step into my lab, where code meets consciousness and visions become reality.*
 
 I’m not just an engineer—I’m a **pioneer of intelligent systems**, blending Agentic AI with the ambition of a tech visionary. Think Tony Stark meets AGI, with a dash of entrepreneurial magic. Prepare to be dazzled!
