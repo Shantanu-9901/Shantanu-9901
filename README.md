@@ -45,4 +45,3 @@ I’m not just an engineer—I’m a **pioneer of intelligent systems**, blendin
 ![Footer GIF](https://media.giphy.com/media/26tPplGWjN0xLybiU/giphy.gif)  
 *Dive into my repos, fork my future, or partner with me to build the next big thing. You’ve just met Shantanu-9901—AI’s new frontier!*
 
-![Divider](https://user-images.githubusercontent.com/55574456/135714674-8e5c7b0b-8b0b-4b0b-8b0b-8b0b8b0b8b0b.png)
