@@ -1,8 +1,8 @@
 <div align="center">
+  
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=0&color=58A6FF&center=true&vCenter=true&multiline=false&repeat=true&width=1000&height=100&lines=Shantanu+Patil;AI+Engineer+%E2%80%94+Building+Agentic+Systems+at+Sav.com" alt="Typing SVG" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=100&lines=Shantanu+Patil;AI+Engineer+%E2%80%94+Building+Agentic+Systems+at+Sav.com" alt="Typing SVG" />
-
-<br/>
+</div>
 
 *I make multi-agent AI systems that take a text prompt and ship working software.*
 
