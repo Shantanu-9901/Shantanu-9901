@@ -20,10 +20,10 @@
 Vibe Platform @ Sav.com — an agentic web app builder
 ```
 
-A user types a prompt → Intent Agent classifies it (25+ field schema) → LangGraph state graph routes to one of four pipelines → downstream agents generate, verify, and ship a deployable web app.
+A user types a prompt → Intent Agent classifies it (25+ field schema) → LangGraph state graph routes to one of multiple pipelines → downstream agents generate, verify and ship a deployable web app.
 
 I designed and own:
-- **Intent classification** — 25+ field schema, 48 test cases, 2,000-token memory budget
+- **Intent classification** — 25+ field schema, 148 test cases, 2,000-token memory budget
 - **Bounded ReAct loops** — Agents reason through problems but can't blow the budget or spiral
 - **Exception handling** — Three-outcome negotiation across six failure categories
 - **Async backend** — FastAPI + distributed workers, streams partial output during long builds
